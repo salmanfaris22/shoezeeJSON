@@ -1,240 +1,240 @@
 {
-    "blog": [
-      {
-        "title": "Toh Phir Aao",
-        "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
-        "description": "Mustafa Zahid",
-        "ctaText": "Read",
-        "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor.",
-        "id": "2"
-      },
-      {
-        "id": "3",
-        "title": "Toh Phir Aao",
-        "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
-        "description": "Mustafa Zahid",
-        "ctaText": "Read",
-        "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
-      },
-      {
-        "id": "4",
-        "title": "Toh Phir Aao",
-        "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
-        "description": "Mustafa Zahid",
-        "ctaText": "Read",
-        "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
-      },
-      {
-        "id": "5",
-        "title": "Toh Phir Aao",
-        "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
-        "description": "Mustafa Zahid",
-        "ctaText": "Read",
-        "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
-      },
-      {
-        "id": "6",
-        "title": "Toh Phir Aao",
-        "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
-        "description": "Mustafa Zahid",
-        "ctaText": "Read",
-        "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
-      },
-      {
-        "id": "7",
-        "title": "Toh Phir Aao",
-        "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
-        "description": "Mustafa Zahid",
-        "ctaText": "Read",
-        "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
-      }
-    ],
-    "project": [
-      {
-        "id": "2",
-        "projectName": " Aceternity UI",
-        "outher": " Customizable Tailwind CSS and Framer Motion Components",
-        "url": "/ui.aceternity.com",
-        "img": "https://i.ytimg.com/vi/i9t8gdaBsTg/maxresdefault.jpg"
-      },
-      {
-        "projectName": " Aceternity UI",
-        "outher": " Customizable Tailwind CSS and Framer Motion Components",
-        "url": "/ui.aceternity.com",
-        "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png",
-        "id": "4"
-      },
-      {
-        "id": "5",
-        "projectName": " Aceternity UI",
-        "outher": " Customizable Tailwind CSS and Framer Motion Components",
-        "url": "/ui.aceternity.com",
-        "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png"
-      },
-      {
-        "id": "6",
-        "projectName": " Aceternity UI",
-        "outher": " Customizable Tailwind CSS and Framer Motion Components",
-        "url": "/ui.aceternity.com",
-        "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png"
-      },
-      {
-        "id": "7",
-        "projectName": " Aceternity UI",
-        "outher": " Customizable Tailwind CSS and Framer Motion Components",
-        "url": "/ui.aceternity.com",
-        "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png"
-      }
-    ],
-    "MainImage": [
-      {
-        "id": 1,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://i.ytimg.com/vi/i9t8gdaBsTg/maxresdefault.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 3,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 4,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 5,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 6,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 7,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 8,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 9,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 10,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 11,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 12,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 13,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 14,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      },
-      {
-        "id": 15,
-        "title": "Cursor",
-        "link": "https://cursor.so",
-        "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
-      }
-    ],
-    "habbit": [
-      {
-        "id": "3",
-        "title": "Microsoft",
-        "description": "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
-      },
-      {
-        "id": "5",
-        "title": "Microsoft",
-        "description": "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
-      },
-      {
-        "id": "7acf",
-        "title": "this is my hoobis",
-        "description": "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
-      }
-    ],
-    "testimonials": [
-      {
-        "id": "f654",
-        "quote": "lnfaihdfiabndfkanfbasf asjfngasfngkas fgjabsfgka sasf gajbsfjgaks fgka fgjabfjkg a",
-        "name": "she is mine ",
-        "title": "love you"
-      },
-      {
-        "id": "db90",
-        "quote": ";lk,;l",
-        "name": "',;",
-        "title": "l;,,l,"
-      }
-    ],
-    "skills": [
-      {
-        "id": "57af",
-        "name": "javascipt",
-        "level": 100,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
-      },
-      {
-        "id": "b5de",
-        "name": "CSS",
-        "level": 90,
-        "img": "https://miro.medium.com/v2/resize:fit:1100/1*f2i47G95nVCx71KzM1iXlg.png"
-      }
-    ],
-    "contas": [
-      {
-        "id": "f5fd",
-        "name": "Salman Faris",
-        "email": "salmanfariskalm@gmial.com",
-        "message": "dasdad"
-      },
-      {
-        "id": "410d",
-        "name": "Salman Faris",
-        "email": "salmanfariskalm@gmial.com",
-        "message": "adsda"
-      }
-    ]
-  }
+  "blog": [
+    {
+      "title": "Toh Phir Aao",
+      "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+      "description": "Mustafa Zahid",
+      "ctaText": "Read",
+      "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Toh Phir Aao",
+      "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+      "description": "Mustafa Zahid",
+      "ctaText": "Read",
+      "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
+    },
+    {
+      "id": "4",
+      "title": "Toh Phir Aao",
+      "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+      "description": "Mustafa Zahid",
+      "ctaText": "Read",
+      "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
+    },
+    {
+      "id": "5",
+      "title": "Toh Phir Aao",
+      "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+      "description": "Mustafa Zahid",
+      "ctaText": "Read",
+      "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
+    },
+    {
+      "id": "6",
+      "title": "Toh Phir Aao",
+      "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+      "description": "Mustafa Zahid",
+      "ctaText": "Read",
+      "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
+    },
+    {
+      "id": "7",
+      "title": "Toh Phir Aao",
+      "src": "https://assets.aceternity.com/demos/toh-phir-aao.jpeg",
+      "description": "Mustafa Zahid",
+      "ctaText": "Read",
+      "body": " Aawarapan, a Bollywood movie starring Emraan Hashmi, is renowned for its intense storyline and powerful performances. Directed by Mohit Suri, the film has become a significant work in the Indianfilm industry. <br /> <br /> The movie explores themes of love,redemption, and sacrifice, capturing the essence of human emotions andrelationships. With a gripping narrative and memorable music,Aawarapan has garnered a massive fan following both in India and abroad, solidifying Emraan Hashmis status as a versatile actor."
+    }
+  ],
+  "project": [
+    {
+      "id": "2",
+      "projectName": " Aceternity UI",
+      "outher": " Customizable Tailwind CSS and Framer Motion Components",
+      "url": "/ui.aceternity.com",
+      "img": "https://i.ytimg.com/vi/i9t8gdaBsTg/maxresdefault.jpg"
+    },
+    {
+      "projectName": " Aceternity UI",
+      "outher": " Customizable Tailwind CSS and Framer Motion Components",
+      "url": "/ui.aceternity.com",
+      "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "projectName": " Aceternity UI",
+      "outher": " Customizable Tailwind CSS and Framer Motion Components",
+      "url": "/ui.aceternity.com",
+      "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png"
+    },
+    {
+      "id": "6",
+      "projectName": " Aceternity UI",
+      "outher": " Customizable Tailwind CSS and Framer Motion Components",
+      "url": "/ui.aceternity.com",
+      "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png"
+    },
+    {
+      "id": "7",
+      "projectName": " Aceternity UI",
+      "outher": " Customizable Tailwind CSS and Framer Motion Components",
+      "url": "/ui.aceternity.com",
+      "img": "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png"
+    }
+  ],
+  "MainImage": [
+    {
+      "id": 1,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://i.ytimg.com/vi/i9t8gdaBsTg/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 3,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 4,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 5,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 6,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 7,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 8,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 9,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 10,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 11,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 12,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 13,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 14,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    },
+    {
+      "id": 15,
+      "title": "Cursor",
+      "link": "https://cursor.so",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0533/2089/files/img-url-filter.jpg?v=1515074624"
+    }
+  ],
+  "habbit": [
+    {
+      "id": "3",
+      "title": "Microsoft",
+      "description": "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
+    },
+    {
+      "id": "5",
+      "title": "Microsoft",
+      "description": "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
+    },
+    {
+      "id": "7acf",
+      "title": "this is my hoobis",
+      "description": "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "f654",
+      "quote": "lnfaihdfiabndfkanfbasf asjfngasfngkas fgjabsfgka sasf gajbsfjgaks fgka fgjabfjkg a",
+      "name": "she is mine ",
+      "title": "love you"
+    },
+    {
+      "id": "db90",
+      "quote": ";lk,;l",
+      "name": "',;",
+      "title": "l;,,l,"
+    }
+  ],
+  "skills": [
+    {
+      "id": "57af",
+      "name": "javascipt",
+      "level": 100,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+    },
+    {
+      "id": "b5de",
+      "name": "CSS",
+      "level": 90,
+      "img": "https://miro.medium.com/v2/resize:fit:1100/1*f2i47G95nVCx71KzM1iXlg.png"
+    }
+  ],
+  "contas": [
+    {
+      "id": "f5fd",
+      "name": "Salman Faris",
+      "email": "salmanfariskalm@gmial.com",
+      "message": "dasdad"
+    },
+    {
+      "id": "410d",
+      "name": "Salman Faris",
+      "email": "salmanfariskalm@gmial.com",
+      "message": "adsda"
+    }
+  ]
+}
