@@ -6,8 +6,9 @@
       "lname": "Faris",
       "email": "salman@gmail.com",
       "password": "salman",
+      "cart":{},
       "admin": true,    
-        "cart":{},
+
       "superAdmin": true
 
      
